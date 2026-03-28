@@ -26,10 +26,6 @@ Construir uma base sólida para desenvolvimento backend com Node.js.
 - 06-metodos-array
 - 07-desafios
 
-## 📘 Lista completa de exercícios
-
-👉 Veja aqui: [EXERCICIOS.md](./EXERCICIOS.md)
-
 ## 🚀 Progresso
 
 - [ ] Fundamentos
